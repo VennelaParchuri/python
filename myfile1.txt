@@ -1,0 +1,2 @@
+Testing with command line
+this is my second line
